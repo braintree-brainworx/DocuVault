@@ -8,10 +8,10 @@ The DocuVault extension for Microsoft Dynamics 365 Business Central provides dir
 - Maintain links from quotes through to Posted Documents and archived versions.
 - Upload multiple documents simultaneously.
 
-## [Setup and Configuration](Configuration)
+## [Setup and Configuration](./Configuration.md)
 Before using DocuVault, some initial setups and configurations are required.
 
-## [Using the DocuVault Factbox](Operation)
+## [Using the DocuVault Factbox](./Operation.md)
 
 ## Extending DocuVault functionality
 If required, we can assist you with extending your environment with SharePoint attachments, by adding the SharePoint factbox for custom tables or redirecting the default save location.

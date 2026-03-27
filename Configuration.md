@@ -1,10 +1,10 @@
 # Setup and Configuration
 
 - [Azure App Registration](#azure-app-registration)
-- [SharePoint Access](sharepoint-access)
-- [DocuVault Setup](docuvault-setup)
-- [Base- and Subfolders](base--and-subfolders)
-- [SharePoint Folder Mapping](sharepoint-folder-mapping)
+- [SharePoint Access](#sharepoint-access)
+- [DocuVault Setup](#docuvault-setup)
+- [Base- and Subfolders](#base--and-subfolders)
+- [SharePoint Folder Mapping](#sharepoint-folder-mapping)
 
 <!-- <h2 id="setup-and-configuration">Setup and Configuration</h2> -->
 
