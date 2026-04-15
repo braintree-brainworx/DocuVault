@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["your.email@example.com"]
 
   spec.summary       = "A Jekyll theme"
-  spec.homepage      = "https://github.com/Braintree-Brainworx/Braintree-theme"
+  spec.homepage      = "https://github.com/Braintree-Brainworx/Braintree-Support-Summary"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
